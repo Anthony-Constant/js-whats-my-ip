@@ -40,3 +40,11 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 The What's My IP? application was developed by [Anthony Constant](https://anthonyconstant.co.uk/). 
 Special thanks to the creators of Bootstrap and Font Awesome for their valuable CSS and icon resources.
 
+## Support My Work
+
+If you like this repository or have used any of the code, please consider showing your support:
+
+- Give it a star ⭐️ to acknowledge its value.
+- You can also support me by [buying me a coffee ☕️](https://ko-fi.com/W7W144CAO).
+
+
