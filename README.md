@@ -1,39 +1,26 @@
-<h1>What's My IP?</h1>
-  <p>
-    This is a simple web application that allows you to detect your IP address, location, and Internet Service Provider (ISP).
-  </p>
+# What's My IP?
 
-  <h2>Features</h2>
-  <ul>
-    <li>Detects your IP address</li>
-    <li>Detects your current location</li>
-    <li>Detects your Internet Service Provider</li>
-    <li>Allows copying of IP address</li>
-  </ul>
+This is a simple web application that allows you to detect your IP address, location, and Internet Service Provider (ISP).
 
-  <h2>How to Use</h2>
-  <p>
-    To use this application, follow these steps:
-  </p>
-  <ol>
-    <li>Open the web page in a browser.</li>
-    <li>Wait for the IP address, location, and ISP information to be detected.</li>
-  </ol>
+## Features
+- Detects your IP address
+- Detects your current location
+- Detects your Internet Service Provider
+- Allows copying of IP address
 
-  <h2>Technologies Used</h2>
-  <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>Bootstrap</li>
-    <li>Font Awesome</li>
-  </ul>
+## How to Use
+To use this application, follow these steps:
+1. Open the web page in a browser.
+2. Wait for the IP address, location, and ISP information to be detected.
 
-  <h2>Credits</h2>
-  <p>
-    Developed by <a href="https://anthonyconstant.co.uk/">Anthony Constant</a>
-  </p>
+## Technologies Used
+- HTML
+- CSS
+- Bootstrap
+- Font Awesome
 
-  <h2>License</h2>
-  <p>
-    This project is licensed under the <a href="LICENSE">MIT License</a>.
-  </p>
+## Credits
+Developed by [Anthony Constant](https://anthonyconstant.co.uk/)
+
+## License
+This project is licensed under the [MIT License](LICENSE).
